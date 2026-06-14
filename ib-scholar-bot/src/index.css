@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  background-color: #F8F7F3;
+  color: #2D312E;
+}
+
+.font-serif-title {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.font-serif-body {
+  font-family: 'Lora', Georgia, serif;
+}
+
+/* Custom Scrollbars for Socratic Chat and Critique Hub to keep beautiful theme */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1EDE4;
+}
+::-webkit-scrollbar-thumb {
+  background: #C4BEB1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #7B8E7E;
+}

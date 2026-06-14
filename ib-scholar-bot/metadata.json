@@ -1,0 +1,6 @@
+{
+  "name": "IB Scholar Bot",
+  "description": "An expert Socratic academic mentor and consultant specializing in the International Baccalaureate (IB) Diploma Programme, guiding students through EEs, IAs, and TOK essays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
